@@ -1,5 +1,3 @@
-# zoom
-
 # Projeto construido durante a JS Expert Week 2.0
 
 - Acesse o [home](./pages/home/index.html) para acessar a home page
